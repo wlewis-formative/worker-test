@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@cortex-js/compute-engine": "^0.28.0",
+    "piscina": "^4.9.2"
+  },
+  "type": "module"
+}
